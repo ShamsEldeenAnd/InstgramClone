@@ -6,7 +6,7 @@ and the app show implementation for `like system` , `follow system` and `comment
 1-`firebase-auth:`  used for authintication in firebase sign in with emails <br />
 2-`firebase-database` to store data on it as json <br />
 3-`firebase-storage` to store files and images  <br />
-3-`universalimageloader` handle loading images into views <br />
+4-`universalimageloader` handle loading images into views <br />
 
 
 
